@@ -5,8 +5,8 @@ Click on the **Answer** button for the correct answer and its explanation.
 If this practice exam has been helpful to you please share it with others and react to this below.
 
 ---
-
-1. AWS allows users to manage their resources using a web based user interface. What is the name of this interface?
+C
+1. AWS allows users to manage their resources using a web based user interface. What is the name of this interface? 
     - A. AWS CLI.
     - B. AWS API.
     - C. AWS SDK.
@@ -15,7 +15,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 2. Which of the following is an example of horizontal scaling in the AWS Cloud?
     - A. Replacing an existing EC2 instance with a larger, more powerful one.
     - B. Increasing the compute capacity of a single EC2 instance to address the growing demands of an application.
@@ -25,7 +25,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 3. You have noticed that several critical Amazon EC2 instances have been terminated. Which of the following AWS services would help you determine who took this action?
     - A. Amazon Inspector.
     - B. AWS CloudTrail.
@@ -46,7 +46,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, E
     </details>
-
+I
 5. Which statement is true regarding the AWS Shared Responsibility Model?
     - A. Responsibilities vary depending on the services used.
     - B. Security of the IaaS services is the responsibility of AWS.
@@ -56,7 +56,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
-
+C
 6. You have set up consolidated billing for several AWS accounts. One of the accounts has purchased a number of reserved instances for 3 years. Which of the following is true regarding this scenario?
     - A. The Reserved Instance discounts can only be shared with the master account.
     - B. All accounts can receive the hourly cost benefit of the Reserved Instances.
@@ -66,7 +66,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+C
 7. A company has developed an eCommerce web application in AWS. What should they do to ensure that the application has the highest level of availability?
     - A. Deploy the application across multiple Availability Zones and Edge locations.
     - B. Deploy the application across multiple Availability Zones and subnets.
@@ -76,7 +76,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+I
 8. What does AWS Snowball provide? (Choose TWO)
     - A. Built-in computing capabilities that allow customers to process data locally.
     - B. A catalog of third-party software solutions that customers need to build solutions and run their businesses.
@@ -87,7 +87,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, E
     </details>
-
+C
 9. A company has an AWS Enterprise Support plan. They want quick and efficient guidance with their billing and account inquiries. Which of the following should the company use?
     - A. AWS Health Dashboard.
     - B. AWS Support Concierge.
@@ -97,7 +97,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+C
 10. A Japanese company hosts their applications on Amazon EC2 instances in the Tokyo Region. The company has opened new branches in the United States, and the US users are complaining of high latency. What can the company do to reduce latency for the users in the US while minimizing costs?
     - A. Applying the Amazon Connect latency-based routing policy.
     - B. Registering a new US domain name to serve the users in the US.
@@ -107,7 +107,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 11. An organization has a large number of technical employees who operate their AWS Cloud infrastructure. What does AWS provide to help organize them into teams and then assign the appropriate permissions for each team?
     - A. IAM roles.
     - B. IAM users.
@@ -117,7 +117,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+C
 12. A company has decided to migrate its Oracle database to AWS. Which AWS service can help achieve this without negatively impacting the functionality of the source database?
     - A. AWS OpsWorks.
     - B. AWS Database Migration Service.
@@ -127,7 +127,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+C
 13. Adjusting compute capacity dynamically to reduce cost is an implementation of which AWS cloud best practice?
     - A. Build security in every layer.
     - B. Parallelize tasks.
@@ -137,7 +137,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+C
 14. What are the benefits of having infrastructure hosted in AWS? (Choose TWO)
     - A. Increasing speed and agility.
     - B. There is no need to worry about security.
@@ -148,7 +148,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, E
     </details>
-
+C
 15. What is the advantage of the AWS-recommended practice of "decoupling" applications?
     - A. Allows treating an application as a single, cohesive unit.
     - B. Reduces inter-dependencies so that failures do not impact other components of the application.
@@ -158,7 +158,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+I
 16. Which of the following helps a customer view the Amazon EC2 billing activity for the past month?
     - A. AWS Budgets.
     - B. AWS Pricing Calculator.
@@ -168,7 +168,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+I
 17. What do you gain from setting up consolidated billing for five different AWS accounts under another master account?
     - A. AWS services’ costs will be reduced to half the original price.
     - B. The consolidated billing feature is just for organizational purpose.
@@ -178,7 +178,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+I
 18. What should you do in order to keep the data on EBS volumes safe? (Choose TWO)
     - A. Regularly update firmware on EBS devices.
     - B. Create EBS snapshots.
@@ -189,7 +189,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, C
     </details>
-
+C
 19. One of the most important AWS best-practices to follow is the cloud architecture principle of elasticity. How does this principle improve your architecture’s design?
     - A. By automatically scaling your on-premises resources based on changes in demand.
     - B. By automatically scaling your AWS resources using an Elastic Load Balancer.
@@ -199,7 +199,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+I
 20. A startup company is operating on limited funds and is extremely concerned about cost overruns. Which of the below options can be used to notify the company when their monthly AWS bill exceeds $2000? (Choose TWO)
     - A. Setup a CloudWatch billing alarm that triggers an SNS notification when the threshold is exceeded.
     - B. Configure the Amazon Simple Email Service to send billing alerts to their email address on a daily basis.
@@ -210,7 +210,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, C
     </details>
-
+C
 21. What does Amazon CloudFront use to distribute content to global users with low latency?
     - A. AWS Global Accelerator.
     - B. AWS Regions.
@@ -220,7 +220,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+A
 22. What does the "Principle of Least Privilege" refer to?
     - A. You should grant your users only the permissions they need when they need them and nothing more.
     - B. All IAM users should have at least the necessary permissions to access the core AWS services.
@@ -230,7 +230,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
-
+C
 23. Which of the following does NOT belong to the AWS Cloud Computing models?
     - A. Platform as a Service (PaaS).
     - B. Infrastructure as a Service (IaaS).
@@ -240,7 +240,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 24. The identification process of an online financial services company requires that new users must complete an online interview with their security team. The completed recorded interviews are only required in the event of a legal issue or a regulatory compliance breach. What is the most cost-effective service to store the recorded videos?
     - A. S3 Intelligent-Tiering.
     - B. AWS Marketplace.
@@ -249,8 +249,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
+      Reason: Because it is a once or twice in a year retrieval so use Deep Archive and get a better discount
     </details>
-
+C 
 25. Which service provides DNS in the AWS cloud?
     - A. Route 53.
     - B. AWS Config.
@@ -259,8 +260,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
+      Reason: - Domain Name Service with Route 53
     </details>
-
+C
 26. Hundreds of thousands of DDoS attacks are recorded every month worldwide. What service does AWS provide to help protect AWS Customers from these attacks? (Choose TWO)
     - A. AWS Shield.
     - B. AWS Config.
@@ -270,8 +272,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, D
+      Reason: Shield for DDOS & DOS Attacks and WAF for blocking out flagged IP addresses
     </details>
-
+C
 27. A company is deploying a new two-tier web application in AWS. Where should the most frequently accessed data be stored so that the application’s response time is optimal?
     - A. AWS OpsWorks.
     - B. AWS Storage Gateway.
@@ -280,8 +283,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
+      Reason: Elasticache create a cache layer above you database to easy retrieval
     </details>
-
+c
 28. You want to run a questionnaire application for only one day (without interruption), which Amazon EC2 purchase option should you use?
     - A. Reserved instances.
     - B. Spot instances.
@@ -291,7 +295,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 29. You are working on a project that involves creating thumbnails of millions of images. Consistent uptime is not an issue, and continuous processing is not required. Which EC2 buying option would be the most cost-effective?
     - A. Reserved Instances.
     - B. On-demand Instances.
@@ -301,7 +305,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 30. Which of the following can be described as a global content delivery network (CDN) service?
     - A. AWS VPN.
     - B. AWS Direct Connect.
@@ -311,7 +315,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 31. Which of the following services allows customers to manage their agreements with AWS?
     - A. AWS Artifact.
     - B. AWS Certificate Manager.
@@ -321,7 +325,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
-
+I
 32. Which of the following are examples of AWS-Managed Services, where AWS is responsible for the operational and maintenance burdens of running the service? (Choose TWO)
     - A. Amazon VPC.
     - B. Amazon DynamoDB.
@@ -332,7 +336,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, C
     </details>
-
+C
 33. Your company has a data store application that requires access to a NoSQL database. Which AWS database offering would meet this requirement?
     - A. Amazon Aurora.
     - B. Amazon DynamoDB.
@@ -342,7 +346,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+C
 34. As part of the Enterprise support plan, who is the primary point of contact for ongoing support needs?
     - A. AWS Identity and Access Management (IAM) user.
     - B. Infrastructure Event Management (IEM) engineer.
@@ -352,7 +356,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 35. How can you view the distribution of AWS spending in one of your AWS accounts?
     - A. By using Amazon VPC console.
     - B. By contacting the AWS Support team.
@@ -362,7 +366,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+C
 36. Which of the following must an IAM user provide to interact with AWS services using the AWS Command Line Interface (AWS CLI)?
     - A. Access keys.
     - B. Secret token.
@@ -372,7 +376,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
-
+I
 37. You have AWS Basic support, and you have discovered that some AWS resources are being used maliciously, and those resources could potentially compromise your data. What should you do?
     - A. Contact the AWS Customer Service team.
     - B. Contact the AWS Abuse team.
@@ -382,7 +386,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+Q
 38. Select TWO examples of the AWS shared controls.
     - A. Patch Management.
     - B. IAM Management.
@@ -393,7 +397,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, D
     </details>
-
+C
 39. In order to implement best practices when dealing with a “Single Point of Failure,” you should attempt to build as much automation as possible in both detecting and reacting to failure. Which of the following AWS services would help? (Choose TWO)
     - A. ELB.
     - B. Auto Scaling.
@@ -404,7 +408,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, B
     </details>
-
+C
 40. A company is planning to host an educational website on AWS. Their video courses will be streamed all around the world. Which of the following AWS services will help achieve high transfer speeds?
     - A. Amazon SNS.
     - B. Amazon Kinesis Video Streams.
@@ -414,7 +418,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+C
 41. A developer is planning to build a two-tier web application that has a MySQL database layer. Which of the following AWS database services would provide automated backups for the application?
     - A. A MySQL database installed on an EC2 instance.
     - B. Amazon Aurora.
@@ -424,7 +428,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+C
 42. What is the AWS service that enables AWS architects to manage infrastructure as code?
     - A. AWS CloudFormation.
     - B. AWS Config.
@@ -434,7 +438,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A
     </details>
-
+C
 43. Under the shared responsibility model, which of the following is the responsibility of AWS?
     - A. Client-side encryption.
     - B. Configuring infrastructure devices.
@@ -444,7 +448,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B
     </details>
-
+I
 44. What does the AWS Health Dashboard provide? (Choose TWO)
     - A. Detailed troubleshooting guidance to address AWS events impacting your resources.
     - B. Health checks for Auto Scaling instances.
@@ -454,8 +458,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: A, E
+      Reason: AWS Health Dashboard provides alerts and remediation guidance when experiencing events
     </details>
-
+c
 45. You have deployed your application on multiple Amazon EC2 instances. Your customers complain that sometimes they can’t reach your application. Which AWS service allows you to monitor the performance of your EC2 instances to assist in troubleshooting these issues?
     - A. AWS Lambda.
     - B. AWS Config.
@@ -465,7 +470,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+C
 46. Your company is developing a critical web application in AWS, and the security of the application is a top priority. Which of the following AWS services will provide infrastructure security optimization recommendations?
     - A. AWS Shield.
     - B. AWS Management Console.
@@ -475,7 +480,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D
     </details>
-
+I
 47. Which of the following is not a benefit of Amazon S3? (Choose TWO)
     - A. Amazon S3 provides unlimited storage for any type of data.
     - B. Amazon S3 can run any type of application or backend system.
@@ -485,8 +490,9 @@ If this practice exam has been helpful to you please share it with others and re
 
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: B, D
+      Reason: S3 is just a storage service, doesnt run anything. S3 scales automatically and retrieval depends on type
     </details>
-
+C
 48. In the AWS Shared responsibility Model, which of the following are the responsibility of the customer? (Choose TWO)
     - A. Disk disposal.
     - B. Controlling physical access to compute resources.
@@ -497,7 +503,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: D, E
     </details>
-
+C
 49. What does AWS provide to deploy popular technologies such as IBM MQ on AWS with the least amount of effort and time?
     - A. Amazon Aurora.
     - B. Amazon CloudWatch.
@@ -507,7 +513,7 @@ If this practice exam has been helpful to you please share it with others and re
     <details markdown=1><summary markdown='span'>Answer</summary>
       Correct answer: C
     </details>
-
+C
 50. An organization has decided to purchase an Amazon EC2 Reserved Instance (RI) for three years in order to reduce costs. It is possible that the application workloads could change during the reservation period. What is the EC2 Reserved Instance (RI) type that will allow the company to exchange the purchased reserved instance for another reserved instance with higher computing power if they need to?
     - A. Elastic RI.
     - B. Premium RI.
